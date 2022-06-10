@@ -3,7 +3,7 @@
 variable "do_token" {}
 
 variable "k8s_name" {
-  default = "turatti"
+  default = "iniciativa"
   type    = string
 }
 
