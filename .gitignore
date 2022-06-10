@@ -1,0 +1,5 @@
+k8s-iniciativa-kubeconfig.yaml
+*.pem
+*.tfstate*
+*.lock*
+.terraform/
